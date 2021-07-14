@@ -13,8 +13,6 @@ Hi 👋
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://discord.gg/WVreuXEh2e" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-4E5D94?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://open.spotify.com/user/nbjd1z58umasc7o0qv17db53a?si=0c64bbc8979949f1" target="_blank"><img align="center" alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" /></a> <a href="https://steamcommunity.com/id/fallenxd" target="_blank"><img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a>
-
 I mostly prefer modern code editors and use the latest versions whenever I can.
 
 --------------------------------
