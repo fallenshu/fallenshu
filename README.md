@@ -8,7 +8,7 @@ Hi 👋
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://discord.com/users/683388041124905071" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/zamyotov" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.com/users/683388041124905071" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://www.instagram.com/burhanncim" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 I mostly prefer modern code editors and use the latest versions whenever I can.
 
