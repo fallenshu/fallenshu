@@ -8,6 +8,10 @@ Hi 👋
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
+</div>
+
 I mostly prefer modern code editors and use the latest versions whenever I can.
 
 --------------------------------
